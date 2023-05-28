@@ -4,3 +4,4 @@
 
 use `npm i`
 then `node .`to start the cli tool
+//!
